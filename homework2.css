@@ -1,0 +1,32 @@
+table,td,th {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table{
+    width: 30%;
+    height: 30%;
+}
+
+td,th{
+    padding:0 10em 0 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.logo{
+    width: 400px;
+}
+
+.border{
+    border-radius: 20px;
+}
+
+.blur{
+    filter: blur(8px);
+}
+
